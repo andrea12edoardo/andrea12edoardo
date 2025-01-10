@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Andrea. I study statistics or data analysis, curious and fascionated by technoly and nature. Working with Python and R.
+I'm Andrea. I study statistics or data analysis, curious and fascionated by technoly and nature. Working with ***Python*** and ***R***.
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
