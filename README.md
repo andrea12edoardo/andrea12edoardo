@@ -1,6 +1,6 @@
 ## Ciao 👋
 
-Randomeness and unpredictability may shape the course of events. 🔮
+***Randomeness*** and ***unpredictability*** may shape the course of events. 🔮
 
 Hi, I'm Andrea.
 
