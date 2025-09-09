@@ -1,11 +1,5 @@
-## Hi there 👋
+## Ciao 👋
 
-I'm Andrea. I study statistics and data analysis, and I'm curious and fascinated by technology and nature. Working with ***Python*** and ***R***.
+Hi, I'm Andrea. I believe that sometimes randomness plays a role in shaping the world. Driven by curiosity and enthusiasm, I am fascinated by the data lifecycle: from secure storage in databases or on the cloud to building models and algorithms for analysis and interpreting complex effects in multidimensional spaces. 
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-
-- 🌱 I’m currently learning machine learning, data science, and the insurance industry.
-- 🏌🏼‍♂️ I’m looking to collaborate on project that adress real-world needs or problems.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/andrea-sciortino-18b0a9239)
-
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+Here, I share my prototypes and projects made from scratch in Python and R, with all the libraries and source for reproducibility.
