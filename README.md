@@ -1,5 +1,9 @@
 ## Ciao 👋
 
-Hi, I'm Andrea. I believe that sometimes randomness plays a role in shaping the world. Driven by curiosity and enthusiasm, I am fascinated by the data lifecycle: from secure storage in databases or on the cloud to building models and algorithms for analysis and interpreting complex effects in multidimensional spaces. 
+Randomeness and unpredictability may shape the course of events.
 
-Here, I share my prototypes and projects made from scratch in Python and R, with all the libraries and source for reproducibility.
+Hi, I'm Andrea.
+
+Driven by curiosity and enthusiasm, I am fascinated by the data lifecycle: from the storage and open-source of data, to building models / algorithms for analysis, to explore inshight from uncertainty across observations, space, time, both.
+
+On this profile, I share R and Python prototypes and projects developed by myself, trying to include data and dependencies for reproducibility.
