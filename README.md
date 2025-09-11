@@ -2,7 +2,7 @@
 
 Hi, i'm Andrea.
 
-Student of Data Analysis for Business, with interest in statistical analysis, AI, automation.
+Student of statistics with economics background, with interest in data science, AI, automation.
 
 *projects developed by myself, trying to include all data and dependencies for reproducibility.*
 
