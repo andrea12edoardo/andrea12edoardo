@@ -10,5 +10,3 @@ Student of statistics with economics background, with interest in data science, 
 
 
 ***Randomeness*** and ***unpredictability*** may shape the course of events. 🔮
-
-*projects developed by myself, trying to include all data and dependencies for reproducibility.*
