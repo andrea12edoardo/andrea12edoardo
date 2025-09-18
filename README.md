@@ -4,7 +4,7 @@ I'm Andrea!
 Student of Statistics | Exploring Data Space & Code
 
 🎓 Economics & Finance  
-👀 Curious about AI, automation, markets, and randomness
+👀 Curious about AI, automation and markets
 
 <p align="center">
   <img src="https://cdn.simpleicons.org/r/276DC3" height="38" alt="R logo"/>
