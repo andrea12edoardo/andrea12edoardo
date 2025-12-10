@@ -1,10 +1,11 @@
 # Ciao
 
 I'm Andrea!  
-Student of Statistics | Exploring Data Space & Code
+Statistics student | Exploring Data, AI and Automation.
 
-🎓 Economics & Finance  
-👀 Curious about AI, automation and markets
+🎓 B. Economics & Finance 
+🎓 M. Data Analysis for Business  
+
 
 <p align="center">
   <img src="https://cdn.simpleicons.org/r/276DC3" height="38" alt="R logo"/>
