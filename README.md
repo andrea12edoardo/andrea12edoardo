@@ -18,10 +18,3 @@ Statistics student | Exploring Data, AI and Automation.
   <b>Randomeness<b> and <b>unpredictability<b> may shape the course of events. 🔮  
 </p>
 
----
-
-<details>
-<summary>📊 Coding life</summary>
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrea12edoardo&layout=compact&hide=css,html" alt="Top Langs" />
-</details>
