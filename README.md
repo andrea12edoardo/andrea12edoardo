@@ -3,7 +3,7 @@
 I'm Andrea!  
 Statistics student | Exploring Data, AI and Automation.
 
-🎓 B. Economics & Finance 
+🎓 B. Economics & Finance \
 🎓 M. Data Analysis for Business  
 
 
