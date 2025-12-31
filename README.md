@@ -14,7 +14,3 @@ Statistics student | Exploring Data, AI and Automation.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="38" alt="PostgreSQL logo"/>
 </p>
 
-<p align="center">
-  <b>Randomeness<b> and <b>unpredictability<b> may shape the course of events. 🔮  
-</p>
-
