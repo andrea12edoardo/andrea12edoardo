@@ -1,7 +1,7 @@
 # Ciao
 
 I'm Andrea!  
-Statistics student | Exploring Data, AI and Automation 
+Statistics & Data Science | Exploring Data, AI and Automation 
 
 🎓 BSc Economics & Finance \
 🎓 MSc Data Analysis for Business
