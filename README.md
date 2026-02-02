@@ -3,7 +3,7 @@
 I'm Andrea!  
 Statistics & Data Science | Exploring Data, AI and Automation 
 
-🎓 BSc Economics & Finance \
+🎓 BSc Economics \
 🎓 MSc Data Analysis for Business
 
 <p align="center">
