@@ -11,16 +11,10 @@ Statistics & Data Science | Exploring Data, AI and Automation
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="44" alt="Python logo"/>
 </p>
 
-#### Statistical Inference Proficiency 🎯
-
-| Inference | Domains & Methods |
-|-----------|-------------------|
-| **🎲 Frequentist** | ***Regression***: Linear , GLM , SAR , CAR , GAM , Lasso , Ridge<br>***Classification***: Logistic , SVM , Random Forest , XGBoost<br>***Clustering***: K-means , Hierarchical |
-| **🎲 Likelihood**  | ***Numerical***: Optimization , Monte Carlo , numerical integration <br>***Time Series***: ARIMA , SARIMA , **Stochastic processes** |
-| **🎲 Bayesian**    | ***Regression***: Hierarchical , GLM , MCMC <br>***Random Fields***: **GLMM (INLA)** |
-| **🎲 Non-parametric** | ***Clustering***: K-NN <br>***Classification***: Neural networks (deep learning)<br>***Smooth***: GAM extensions <br>***Time Series***: Prophet , LSTM (priors)|
-
 #### Database Managment 🌐
+- ClickHouse
+- AWS
+- Azure
 - MySQL
 -  SQLite
 - PostgreSQL & PostGIS
