@@ -12,15 +12,6 @@ Statistics & Data Engineering | Exploring Data, AI and Automation
   <img src="https://cdn.simpleicons.org/r/276DC3" height="45" alt="R logo"/>
 </p>
 
-#### Statistical Inference Proficiency 🎯
-
-| Inference | Domains & Methods |
-|-----------|-------------------|
-| **🎲 Frequentist** | ***Regression***: Linear , GLM , SAR , CAR , GAM , Lasso , Ridge<br>***Classification***: Logistic , SVM , Random Forest , XGBoost<br>***Clustering***: K-means , Hierarchical |
-| **🎲 Likelihood**  | ***Numerical***: Optimization , Monte Carlo , numerical integration <br>***Time Series***: ARIMA , SARIMA , **Stochastic processes** |
-| **🎲 Bayesian**    | ***Regression***: Hierarchical , GLM , MCMC <br>***Random Fields***: **GLMM (INLA)** |
-| **🎲 Non-parametric** | ***Clustering***: K-NN <br>***Classification***: Neural networks (deep learning)<br>***Smooth***: GAM extensions <br>***Time Series***: Prophet , LSTM (priors)|
-
 #### Database Managment 🌐
 
 
@@ -32,6 +23,17 @@ Statistics & Data Engineering | Exploring Data, AI and Automation
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="MySQL logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="38" alt="PostgreSQL logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"  height="38" alt="SQLite logo"/>
+
+#### Statistical Inference Proficiency 🎯
+
+| Inference | Domains & Methods |
+|-----------|-------------------|
+| **🎲 Frequentist** | ***Regression***: Linear , GLM , SAR , CAR , GAM , Lasso , Ridge<br>***Classification***: Logistic , SVM , Random Forest , XGBoost<br>***Clustering***: K-means , Hierarchical |
+| **🎲 Likelihood**  | ***Numerical***: Optimization , Monte Carlo , numerical integration <br>***Time Series***: ARIMA , SARIMA , **Stochastic processes** |
+| **🎲 Bayesian**    | ***Regression***: Hierarchical , GLM , MCMC <br>***Random Fields***: **GLMM (INLA)** |
+| **🎲 Non-parametric** | ***Clustering***: K-NN <br>***Classification***: Neural networks (deep learning)<br>***Smooth***: GAM extensions <br>***Time Series***: Prophet , LSTM (priors)|
+
+
   
           
           
